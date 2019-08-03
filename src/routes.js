@@ -1,0 +1,1 @@
+export const DIRECTIONS = './src/screens/Directions';
